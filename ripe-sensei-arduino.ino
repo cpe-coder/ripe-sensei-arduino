@@ -12,11 +12,11 @@ Servo servo;
 #define esc_pin D1                
 
 
-#define WIFI_SSID "G-Coder"
-#define WIFI_PASSWORD "G-Coder@02"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
-#define API_KEY "AIzaSyCn2iJdbQBA1ZDPdTACuvB12yJS9Wf3UC8"
-#define DATABASE_URL "agribot-10b8b-default-rtdb.firebaseio.com/"
+#define API_KEY ""
+#define DATABASE_URL ""
 
 FirebaseData fbdo;
 FirebaseAuth auth;
